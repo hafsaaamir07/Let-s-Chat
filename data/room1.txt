@@ -1,0 +1,61 @@
+
+hafsa : hello
+hafsa : hello
+pikachu : hi
+hafsa : hello
+kitten : hello 
+kitten : hello 
+kitten : hello 
+kitten : hello 
+kitten : hello 
+kitten : hello 
+hafsa : hello
+hafsa : hello
+hafsa : hello
+hafsa : hafsahafsa : hi
+hafsa : hi
+hafsa : nyu
+pink : green
+pink : hello
+purple : hi 
+hafsa : hello
+hafsa : hello
+hafsa : hello
+hafsa : hello
+hafsa : hi
+hafsa : kitten
+hafsa : pink
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/4.png
+hafsa : hello
+hafsa : hello
+hafsa : hello
+hafsa : hello
+hafsa : hello
+hafsa : hello
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png
+hafsa : kitten
+girl : hi purple
+girl : hi purple 
+girl : hi purple 
+girl : hi purple 
+girl : hi purple 
+girl : hi purple 
+girl : hi purple 
+girl : hi purple 
+girl : hi purple 
+girl : hi purple 
+girl : 2021
+girl : gradutaion
+girl : hello
+orange : hi
+orange : hi
+orange : hi
+orange : hi
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/4.png
+grey : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/4.png
